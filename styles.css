@@ -1,0 +1,88 @@
+body {
+  background-color: #66BFBF;
+  margin: 0;
+}
+
+.card {
+  margin: 200px auto 0 auto;
+  border-radius: 30px;
+  background-color: white;
+  width: 350px;
+  height: 400px;
+  position: relative;
+}
+
+.color {
+  background-color:#20B2AA;
+  border-radius:25px 25px 0 0;
+
+  margin: 0;
+  width: 350px;
+  height: 100px;
+}
+
+.profile-img {
+border-radius: 50%;
+position: absolute;
+top:35px;
+left:120px;
+}
+
+h1{
+  font-family: 'Goldman', cursive;
+  text-align: center;
+  font-weight: normal;
+  line-height: 1;
+  margin:50px auto 0 auto;
+}
+span{
+  font-family: 'Raleway', sans-serif;
+}
+
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  line-height: 0.75;
+  text-align: center;
+  position: relative;
+  bottom:25px;
+}
+
+
+.followers{
+  float: left;
+  margin-right: 5px;
+  list-style-type: none;
+
+
+
+}
+
+.likes{
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  list-style-type: none;
+}
+
+.photos{
+  float:left;
+  margin-left: 5px;
+  list-style-type: none;
+
+}
+
+.value{
+  font-family: 'Goldman', cursive;
+  font-weight: bold;
+  font-size: 1.25rem;
+
+
+
+}
+.type{
+  font-weight: normal;
+  font-family: 'Raleway', sans-serif;
+
+
+}
